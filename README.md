@@ -1,5 +1,5 @@
 # Model-Rocket-
-Design, analysis, build, testing and launch preparation of a model rocket for a 1 km mission, including motor design, airframe design, avionics, cameras, recovery, and ground station work.
+Design, build and launch of a model rocket for a 1 km mission, including motor design, airframe design, avionics, cameras, recovery, and ground station work.
 
 ## Overview
 This project covers the design, development, testing, and launch preparation of a student model rocket.  
